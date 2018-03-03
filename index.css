@@ -1,0 +1,46 @@
+*{
+font-family: Helvetica;
+font-size: 20px;
+
+}
+
+p{
+  color: teal;
+}
+
+h1 {
+    text-align: center;
+  color: blue;
+  font-size: 50px;
+background-image: url("http://www.intrawallpaper.com/static/images/cube-pattern-28617-2560x1600.jpg");
+
+}
+
+h2{
+  color:SeaGreen;
+background-color:khaki;
+font-size: 50px;
+}
+
+
+
+
+
+}
+.command {
+  color: red;
+}
+.connect{
+  color: orange;
+}
+.prompts{
+  color: green;
+}
+.conclusion{
+
+font-family: Georgia;
+
+}
+.command, .connect, .prompts{
+  font-weight: bold
+}
